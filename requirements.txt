@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+vital-python
+pandas
+numpy
+xgboost
+shap
+openai
+transformers
+torch
+joblib
